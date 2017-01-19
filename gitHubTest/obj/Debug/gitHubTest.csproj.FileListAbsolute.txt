@@ -1,0 +1,6 @@
+c:\users\jakob\documents\visual studio 2015\Projects\gitHubTest\bin\Debug\gitHubTest.exe.config
+c:\users\jakob\documents\visual studio 2015\Projects\gitHubTest\bin\Debug\gitHubTest.exe
+c:\users\jakob\documents\visual studio 2015\Projects\gitHubTest\bin\Debug\gitHubTest.pdb
+c:\users\jakob\documents\visual studio 2015\Projects\gitHubTest\obj\Debug\gitHubTest.csprojResolveAssemblyReference.cache
+c:\users\jakob\documents\visual studio 2015\Projects\gitHubTest\obj\Debug\gitHubTest.exe
+c:\users\jakob\documents\visual studio 2015\Projects\gitHubTest\obj\Debug\gitHubTest.pdb
